@@ -1,3 +1,4 @@
+
 public class SumPrime 
 {   
     public static boolean isPrime(int n) {
